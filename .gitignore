@@ -1,4 +1,5 @@
 node_modules
 js-modules/node_modules
+js-promises/node_modules
 .DS_Store
 .idea
