@@ -132,7 +132,7 @@ let reloadJS = () => {
 
   let newScriptTag = document.createElement("script");
   newScriptTag.id = "script";
-  newScriptTag.src = "demo.js";
+  newScriptTag.src = "let_const_var_demo.js";
   newScriptTag.textContent = "//script";
   var body = document.getElementsByTagName("body")[0];
 
