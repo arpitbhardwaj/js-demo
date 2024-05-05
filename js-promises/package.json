@@ -1,7 +1,7 @@
 {
     "name": "async-programming-promises",
     "version": "1.0.0",
-    "description": "Source code for the Pluralsight course JavaScript Promises and Async Programming",
+    "description": "Source code for JavaScript Promises and Async Programming",
     "main": "index.js",
     "scripts": {
         "dev": "nodemon ./index.js",
@@ -11,7 +11,7 @@
         "type": "git",
         "url": "git+https://github.com/arpitbhardwaj/js-promises.git"
     },
-    "author": "Nate Taylor (taylonr@gmail.com)",
+    "author": "arpitbhardwaj",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/arpitbhardwaj/js-promises/issues"
