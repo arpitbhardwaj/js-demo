@@ -1,5 +1,5 @@
 {
-    "name": "async-programming-promises",
+    "name": "js-promises",
     "version": "1.0.0",
     "description": "Source code for JavaScript Promises and Async Programming",
     "main": "index.js",
